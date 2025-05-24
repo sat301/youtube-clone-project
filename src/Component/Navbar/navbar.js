@@ -6,7 +6,6 @@ import SearchIcon from '@mui/icons-material/Search';
 import KeyboardVoiceIcon from '@mui/icons-material/KeyboardVoice';
 import VideoCallIcon from '@mui/icons-material/VideoCall';
 import NotificationsIcon from '@mui/icons-material/Notifications';
-import PersonIcon from '@mui/icons-material/Person';
 const Navbar = () => {
     const [userPic, setuserPic] = useState
     ("https://wallpapercave.com/wp/wp11413592.jpg")
